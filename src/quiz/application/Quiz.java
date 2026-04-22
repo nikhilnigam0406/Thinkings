@@ -59,7 +59,7 @@ public class Quiz extends JFrame implements ActionListener {
       this.questions[0][4] = "JRE";
       
       this.questions[1][0] = "Type IV JDBC driver is a driver?";
-      this.questions[1][1] = "int";
+      this.questions[1][1] = "which communicates through Java sockets";
       this.questions[1][2] = "Object";
       this.questions[1][3] = "long";
       this.questions[1][4] = "void";
